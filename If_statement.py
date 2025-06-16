@@ -59,6 +59,6 @@ for user in new_users:
         print(f"{user},Username is available")
 
 
-t
+
 
 

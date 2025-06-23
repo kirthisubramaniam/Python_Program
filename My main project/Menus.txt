@@ -1,0 +1,5 @@
+butter croissant:3.00
+chocolate chunk cookie:2.89
+bluberry muffin:4.20
+cinnamon swirl:3.00
+chocolate brownie:2.00

@@ -1,0 +1,8 @@
+cappucino:3.50
+iced lattee:4.25
+caffee mocha:5.25
+frappucino:5.25
+hot chocolate:4.25
+water:1.50
+green tea:2.00
+masala chai:2.50

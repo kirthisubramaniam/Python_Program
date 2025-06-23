@@ -1,6 +1,8 @@
 **Chapter and Coffee**
 
-    Chapter and Coffee is a Python-based console application that simulates a cozy bookstore café experience. It allows users to browse a menu of books and beverages, place orders, and view their basket with a detailed cost breakdown. Designed with simplicity and functionality in mind, this project demonstrates file handling, user input, and basic access control using Python methods.
+    Chapter and Coffee is a Python-based console application that simulates a cozy bookstore café experience. 
+    It allows users to browse a menu of books and beverages, place orders, and view their basket with a detailed cost breakdown. 
+    Designed with simplicity and functionality in mind, this project demonstrates file handling, user input, and basic access control using Python methods.
 
 **Features**
 **Interactive Menu Display**
@@ -26,14 +28,14 @@
 
 **File Structure**
 
-chapter_and_coffee/
-│
-├── books.txt           # List of available books
-├── drinks.txt          # List of available drinks
-├── menu.txt            # General cafe menu
-├── specials.txt        # Today's specials
-├── password.txt        # Staff password (for editing access)
-└── chapter_and_coffee.py  # Main Python script
+chapter_and_coffee
+
+── books.txt           # List of available books
+── drinks.txt          # List of available drinks
+── menu.txt            # General cafe menu
+── specials.txt        # Today's specials
+── password.txt        # Staff password (for editing access)
+── chapter_and_coffee.py  # Main Python script
 
 **Staff Access**
 To modify menu files:

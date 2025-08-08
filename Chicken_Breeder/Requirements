@@ -1,0 +1,48 @@
+Chicken-UI PID 
+ 
+The Requirement 
+ 
+You have been approached by a local Chicken Breeder to help them explore moving from their paper-based Chicken Record System to a Local Database System. 
+ 
+They have asked that you use Microsoft Windows or MAC infrastructure. In order to get an idea of how they will use it, they want you to create a simple CLI based menu system that uses a list of chicken names For Example (George, Fleur, Devon, Casey, Marigold' Apple Mint) as a POC (Proof of Concept) for it. 
+Your application must have the ability to print to the screen, clear the screen, accept user input, and create a basic `list` data structure. 
+ 
+In terms of functionality the menu system should look like this: - 
+ 
+Menu - 
+ 
+0 - Exit App 
+1 - Print List of Chickens Records 
+2 - Create New Chicken Record 
+3 - Update Existing Chicken Record 
+4 - Delete a Chicken Record 
+ 
+The chicken names should be stored initially in a python data structure whilst the program is active. 
+ 
+If you wish to extend the functionality to store and retrieve the chicken data from a CSV or text file, they are happy for you to include that as well. 
+ 
+You should document your development process and write an explanation of the tools and components used in your solution. 
+ 
+Tools you will need 
+ 
+GIT/GIT Hub – For version control and documentation 
+VScode – IDE for developing Software 
+Python - To run the code 
+ 
+ 
+Phase 1 - Set up Development Infrastructure 
+ 
+1. Install Python 
+2. Instal VS Code 
+3. Setup your project directory structure 
+4. Setup a Local GIT Repository 
+ 
+Phase 2 – Build and Test the Product 
+ 
+1. Create a simple Chicken program (app.py) 
+ 
+Phase 3 – Final Deliverables to the Client   
+ 
+Deliver a Product demo of the applications functions (5 Mins) 
+Create and Deliver a Client Facing Presentation on the benefits to the customer of you application (5 Mins) 
+Create and Deliver a White board session with the Client, explaining how the Application Works and your design decisions with alternatives. (5 mins) 
